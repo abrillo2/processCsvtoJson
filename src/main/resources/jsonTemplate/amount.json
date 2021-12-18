@@ -1,0 +1,18 @@
+[{
+  "billing ammount": {
+    "id": 100,
+    "curren cyCode": "GBP"
+  },
+  "transactionAmount": {
+    "timestamp": 101,
+    "currencyCode": "USD"
+  },
+  "settlement Amount": {
+    "date": 102,
+    "uuid": "CHF",
+    "d": {
+      "dv": 1,
+      "dd":[1,2,3,{"ddd":[3,2,1]},{"date":null}]
+    }
+  }
+}]

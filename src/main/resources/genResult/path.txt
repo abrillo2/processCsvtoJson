@@ -1,0 +1,2 @@
+x[0]["settlement Amount"].date
+x[0]["billing ammount"].id

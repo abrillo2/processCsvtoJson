@@ -1,0 +1,22 @@
+{
+  "billing ammount" : {
+    "id" : "3b274ab0-024b-4c16-801d-e70658f00017",
+    "curren cyCode" : "GBP"
+  },
+  "transactionAmount" : {
+    "timestamp" : 101,
+    "currencyCode" : "USD"
+  },
+  "settlement Amount" : {
+    "date" : "2021.12.18",
+    "uuid" : "CHF",
+    "d" : {
+      "dv" : 1,
+      "dd" : [ 1, 2, 3, {
+        "ddd" : [ 3, 2, 1 ]
+      }, {
+        "date" : ""
+      } ]
+    }
+  }
+}
